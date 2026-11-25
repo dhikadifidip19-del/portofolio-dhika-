@@ -4,11 +4,11 @@
   const translations = {
     id: {
       skip_nav: "Lewati navigasi",
-      nav_home: "Home",
-      nav_about: "About",
-      nav_skills: "Skills",
-      nav_projects: "Projects",
-      nav_contact: "Contact",
+      nav_home: "Beranda",
+      nav_about: "Tentang",
+      nav_skills: "Keahlian",
+      nav_projects: "Proyek",
+      nav_contact: "Kontak",
       nav_back_projects: "Kembali ke proyek",
       nav_achievements: "Prestasi",
 
@@ -23,8 +23,9 @@
       hero_motto: '<span aria-hidden="true">✦</span> TERUS BELAJAR, TERUS BERTUMBUH',
       hero_scroll: 'Mulai perjalanan <span class="scroll-arrow" aria-hidden="true">↓</span>',
 
-      about_label: "01 / ABOUT ME",
-      about_title: "HELLO<br><em>I'M DHIKA</em>",
+      about_label: "01 / TENTANG SAYA",
+      about_title: "HALO<br><em>SAYA DHIKA</em>",
+      about_bio: "Halo, nama saya Dhika Frisco Dwi Pratama, biasa dipanggil Dhika. Saya siswa di SMK Krian 1 Sidoarjo, jurusan Rekayasa Perangkat Lunak (RPL), kelas X RPL 3.<br><br>Saya tertarik pada dunia teknologi dan musik. Saya senang mempelajari musik, serta dasar-dasar pengembangan web dan pemrograman, mulai dari merancang tata letak hingga menambahkan fitur interaktif.<br><br>Selain belajar, saya juga senang bermain keyboard.<br><br>Cita-cita: Menjadi pemain keyboard profesional<br>Keahlian: Bermain keyboard, dasar pengembangan web, dan pemrograman<br>Hobi: Bermain keyboard, mempelajari teknologi, dan bermain game<br>Lokasi: Desa Pejangkungan, Dusun Kates, Kecamatan Prambon, Kabupaten Sidoarjo",
       label_fullname: "Nama lengkap",
       label_class: "Kelas / Absen",
       edu_title: "Perjalanan pendidikan",
@@ -113,6 +114,7 @@
 
       about_label: "01 / ABOUT ME",
       about_title: "HELLO<br><em>I'M DHIKA</em>",
+      about_bio: "Hello, my name is Dhika Frisco Dwi Pratama, but you can call me Dhika. I am a student at SMK Krian 1 Sidoarjo, majoring in Software Engineering (RPL), class X RPL 3.<br><br>I am interested in technology and music. I enjoy learning about music, as well as the basics of web development and programming, starting from designing layouts to adding interactive features.<br><br>Besides studying, I also enjoy playing the keyboard.<br><br>Dream: To become a professional keyboardist<br>Skills: Playing the keyboard, basic web development, and programming<br>Hobbies: Playing the keyboard, learning about technology, and playing games<br>Location: Pejangkungan Village, Kates Hamlet, Prambon District, Sidoarjo Regency",
       label_fullname: "Full name",
       label_class: "Class / Roll No.",
       edu_title: "Education journey",
