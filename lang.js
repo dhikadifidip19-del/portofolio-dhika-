@@ -42,7 +42,6 @@
       skill_js_desc: "Logika & interaksi di browser",
       skill_py_desc: "Dasar pemrograman & pengolahan data",
       skill_java_desc: "Dasar sintaks & pemrograman objek",
-      skills_photo_caption: "Terus berproses dan bertumbuh di dunia Rekayasa Perangkat Lunak.",
 
       projects_label: "03 / JEJAK KARYA",
       projects_title: "Karya kecil.<br><em>Langkah berarti.</em>",
@@ -133,7 +132,6 @@
       skill_js_desc: "Logic & browser interactivity",
       skill_py_desc: "Programming basics & data processing",
       skill_java_desc: "Syntax basics & object-oriented programming",
-      skills_photo_caption: "Continuously learning and growing in Software Engineering.",
 
       projects_label: "03 / TRACK RECORD",
       projects_title: "Small works.<br><em>Meaningful steps.</em>",
